@@ -1,0 +1,124 @@
+{
+ "data": [
+  {
+   "name": "Triple Goal",
+   "description_short": "Each team has 3 goals!",
+   "description": "This is my very first map creation. I was testing models and the basics of Rocket League custom maps. There are 3 goals on each side of the field, and that\u2019s all there is to it! The ball MAY disappear randomly\u2026 Did I mention this was my first creation ever?",
+   "download_url": "https://drive.google.com/u/0/uc?id=1QiM9_Hm7ZyLuYNWs-HaggjMYaYbAxlJj&export=download",
+   "counts": {
+    "downloads": 2840,
+    "likes": 25,
+    "views": 4490
+   },
+   "media": [
+    "https://lethamyr.com/storage/0sZeemn0mjb9jVIVEJ4o81h0a3rvKKcJadsprb20JhpBoBkLViNw512rSjStNVgL.jpg",
+    "https://lethamyr.com/storage/BIQu5sKXberfzNdU7W1EvSxzTebFVg073CzFDCeGOWbANkk9S3VYzXnSoJDwKL4O.jpg",
+    "https://lethamyr.com/storage/GdcpXoqoBhUyb4eiBl2kB1L8D28fAPGX87sdpUkriFpV3bZ0kKCnDFebmcy56Dbe.jpg"
+   ]
+  },
+  {
+   "name": "Giant Foosball Table",
+   "description_short": "Standard Rocket League on a giant foosball table!",
+   "description": "This map takes Standard Rocket League and places it on regular foosball table!. Scoring is just like normal, except the ball has to fall into the floor of the goal! The figures on each teams\u2019 side can get in the way, causing some unique moments.",
+   "download_url": "https://drive.google.com/u/0/uc?id=1-2PIVY-WiIpTKNuFYQFwi2qWYueGr2HW&export=download",
+   "counts": {
+    "downloads": 195,
+    "likes": 2,
+    "views": 296
+   },
+   "media": [
+    "https://lethamyr.com/storage/i6n20NGJoBgZ7xMvx0MWMPzUS2vVomK1OhWwHB7omnxywwA5IZfrAX7Wnfk56dFu.jpg",
+    "https://lethamyr.com/storage/Py8u6R5NIWpKUJ4gXdSybuFDJEvGaDIlikt5MV9KWoTJGYnTsGoAcdVYWYW8Df8G.jpg",
+    "https://lethamyr.com/storage/UGWJelcermWARNMJAIWFY51wrRMCIyLU2Xg0WJ0QxNVP8uizopmwx4O9fHgVL3aq.jpg"
+   ]
+  },
+  {
+   "name": "Air Hockey Table",
+   "description_short": "Played with a puck, this map brings air hockey to Rocket League!",
+   "description": "The puck (or ball) spawns on top of the bridge, and there is a barrier between the two halves of the map to divide players. If you shoot the puck (or ball) through the underpass, the velocity of the puck will be boosted! I plan on recreating this map in a polished, proper air hockey style!",
+   "download_url": "https://drive.google.com/u/0/uc?id=19i-hW3DawqTLbS4NbYqBDjG3lJZS5Bf8&export=download",
+   "counts": {
+    "downloads": 235,
+    "likes": 2,
+    "views": 443
+   },
+   "media": [
+    "https://lethamyr.com/storage/jY8bfqmwF6oN62tN88vKyuwPukdDGKyL1L8RyolpuX7Mk3zWiqu2xuZJKCglEmKD.jpg",
+    "https://lethamyr.com/storage/1wsa5sR21x4QwqlyNqz8yjOgCSCMl7YxTd1TTQKQDEkNBLkDnh0lm941j7DESjH1.jpg",
+    "https://lethamyr.com/storage/RkoP5dLm7RfZZzp6HotzuwIs4RvOSiJLHkpvAsoOK51Ndqe6PqKtCU77jUwEMYzL.jpg"
+   ]
+  }
+ ],
+ "links": {
+  "first": "https://lethamyr.com/api/v1/maps?page=1",
+  "last": "https://lethamyr.com/api/v1/maps?page=9",
+  "prev": null,
+  "next": "https://lethamyr.com/api/v1/maps?page=2"
+ },
+ "meta": {
+  "current_page": 1,
+  "from": 1,
+  "last_page": 9,
+  "links": [
+   {
+    "url": null,
+    "label": "&laquo; Previous",
+    "active": false
+   },
+   {
+    "url": "https://lethamyr.com/api/v1/maps?page=1",
+    "label": "1",
+    "active": true
+   },
+   {
+    "url": "https://lethamyr.com/api/v1/maps?page=2",
+    "label": "2",
+    "active": false
+   },
+   {
+    "url": "https://lethamyr.com/api/v1/maps?page=3",
+    "label": "3",
+    "active": false
+   },
+   {
+    "url": "https://lethamyr.com/api/v1/maps?page=4",
+    "label": "4",
+    "active": false
+   },
+   {
+    "url": "https://lethamyr.com/api/v1/maps?page=5",
+    "label": "5",
+    "active": false
+   },
+   {
+    "url": "https://lethamyr.com/api/v1/maps?page=6",
+    "label": "6",
+    "active": false
+   },
+   {
+    "url": "https://lethamyr.com/api/v1/maps?page=7",
+    "label": "7",
+    "active": false
+   },
+   {
+    "url": "https://lethamyr.com/api/v1/maps?page=8",
+    "label": "8",
+    "active": false
+   },
+   {
+    "url": "https://lethamyr.com/api/v1/maps?page=9",
+    "label": "9",
+    "active": false
+   },
+   {
+    "url": "https://lethamyr.com/api/v1/maps?page=2",
+    "label": "Next &raquo;",
+    "active": false
+   }
+  ],
+  "path": "https://lethamyr.com/api/v1/maps",
+  "per_page": 25,
+  "to": 25,
+  "total": 204
+ }
+}

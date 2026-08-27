@@ -2,6 +2,8 @@
 
 A lightweight custom map loader for Rocket League.
 
+![The Explore tab, a grid of map cards with thumbnails and download buttons.](www/explore.webp)
+
 Inspired by [NoxPhoenix/custom-map-loader](https://github.com/NoxPhoenix/custom-map-loader).
 
 ## Install
